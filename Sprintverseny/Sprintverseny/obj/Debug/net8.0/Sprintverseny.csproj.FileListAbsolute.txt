@@ -1,0 +1,14 @@
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\Sprintverseny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\Sprintverseny.AssemblyInfoInputs.cache
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\Sprintverseny.AssemblyInfo.cs
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\Sprintverseny.csproj.CoreCompileInputs.cache
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\bin\Debug\net8.0\Sprintverseny.exe
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\bin\Debug\net8.0\Sprintverseny.deps.json
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\bin\Debug\net8.0\Sprintverseny.runtimeconfig.json
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\bin\Debug\net8.0\Sprintverseny.dll
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\bin\Debug\net8.0\Sprintverseny.pdb
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\Sprintverseny.dll
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\refint\Sprintverseny.dll
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\Sprintverseny.pdb
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\Sprintverseny.genruntimeconfig.cache
+C:\Users\david.benedek\source\repos\Sprintverseny\Sprintverseny\obj\Debug\net8.0\ref\Sprintverseny.dll
